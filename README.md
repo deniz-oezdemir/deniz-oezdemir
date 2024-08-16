@@ -1,1 +1,1 @@
-I like programming. Currently with C/C++.
+I like programming, currently in C/C++.
