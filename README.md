@@ -2,7 +2,7 @@
 
 # About Me
 
-I'm a product manager in the consumer brokerage space and a software engineering student at 42 Berlin, currently focused on building a strong foundation in C/C++. I'm passionate about all aspects of software development and eager to explore new technologies, combining my technical skills with my product management experience to create impactful, user-centered solutions.
+I am a Product Manager in the consumer brokerage space and a software engineering student at 42 Berlin, currently building a strong foundation in C/C++. I am passionate about all aspects of software development and eager to explore new technologies. My goal is to combine my technical skills with my product management experience to create impactful, user-centric solutions.
 
 # Technical Skills
 
