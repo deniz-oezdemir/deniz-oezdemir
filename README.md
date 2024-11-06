@@ -6,7 +6,7 @@ I am a Product Manager in the consumer brokerage space and a software engineerin
 
 # Technical Skills
 
-- **Languages**: C/C++, Python, JavaScript, HTML/CSS
+- **Languages**: C, C++, Python, JavaScript, HTML/CSS
 - **Tools**: Git, Docker
 
 # Projects
