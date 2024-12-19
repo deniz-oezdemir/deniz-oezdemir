@@ -6,7 +6,7 @@ I am a Product Manager in the consumer brokerage space and a software engineerin
 Have a look at my [resume](https://github.com/deniz-oezdemir/resume/blob/main/deniz_oezdemir_resume.pdf) or its [source code](https://github.com/deniz-oezdemir/resume/blob/main/deniz_oezdemir_resume.tex).
 
 # Technical Skills
-- **Languages**: C, C++, Python, JavaScript, HTML, CSS, SQL
+- **Languages**: C, C++, Go, Python, JavaScript, HTML, CSS, SQL
 - **Tools**: Git, Docker, Bash, Vim, VS Code, Jira, Confluence, Figma
 
 # Projects
