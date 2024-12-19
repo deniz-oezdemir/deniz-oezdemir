@@ -12,7 +12,6 @@ Have a look at my [resume](https://github.com/deniz-oezdemir/resume/blob/main/de
 # Projects
 
 Currently, I am working on:
-
 - **Full-Stack Pong Game**: Developing a Pong game with a microservices architecture. This project will feature real-time multiplayer functionality, comprehensive game statistics, and an AI opponent. [Follow the progress here](https://github.com/deniz-oezdemir/Transcendence).
 - **Personal Webpage**: Designing a personal webpage to present my thoughts and learnings in a more appealing format. This project is currently in the research phase.
 
