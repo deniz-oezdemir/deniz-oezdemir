@@ -16,7 +16,7 @@ Currently, I am working on:
 - **Full-Stack Pong Game**: Developing a Pong game with a microservices architecture. This project will feature real-time multiplayer functionality, comprehensive game statistics, and an AI opponent. [Follow the progress here](https://github.com/deniz-oezdemir/Transcendence).
 - **Personal Webpage**: Designing a personal webpage to present my thoughts and learnings in a more appealing format. This project is currently in the research phase.
 
-I have completed the following projects as part of my software engineering education at 42 Berlin:
+I have completed the following projects:
 - **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Building an HTTP web server from scratch, compliant with HTTP/1.1
 - **[Inception](https://github.com/deniz-oezdemir/Inception)** | Setting up a small multi-service infrastructure using Docker containers
 - **[CPP-Intro](https://github.com/deniz-oezdemir/CPP-Intro)** | Comprehensive introduction Object-Oriented Programming with C++
