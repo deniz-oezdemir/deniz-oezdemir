@@ -10,13 +10,12 @@ Have a look at my [resume](https://github.com/deniz-oezdemir/resume/blob/main/de
 - **Tools**: Git, Docker, Bash, Vim, VS Code, Jira, Confluence, Figma
 
 # Projects
-
 Currently, I am working on:
 - **Full-Stack Pong Game**: Developing a Pong game with a microservices architecture. This project will feature real-time multiplayer functionality, comprehensive game statistics, and an AI opponent. [Follow the progress here](https://github.com/deniz-oezdemir/Transcendence).
 - **Personal Webpage**: Designing a personal webpage to present my thoughts and learnings in a more appealing format. This project is currently in the research phase.
 
-I have completed the following projects:
-- **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Building an HTTP web server from scratch, compliant with HTTP/1.1
+I've completed below projects as part of my software engineering education:
+- **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Built an HTTP web server from scratch, compliant with HTTP/1.1
 - **[Inception](https://github.com/deniz-oezdemir/Inception)** | Setting up a small multi-service infrastructure using Docker containers
 - **[CPP-Intro](https://github.com/deniz-oezdemir/CPP-Intro)** | Comprehensive introduction Object-Oriented Programming with C++
 - **[miniRT](https://github.com/deniz-oezdemir/miniRT)** | Building a basic ray tracer to render 3D scenes from numerical object specifications
