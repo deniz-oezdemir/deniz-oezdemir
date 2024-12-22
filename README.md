@@ -1,7 +1,7 @@
 👋 Hi there, I'm Deniz!
 
 # About Me
-As a product manager turned software engineer, I bring a unique blend of business acumen and technical expertise, allowing me to bridge the gap between user needs and technical solutions. With a strong foundation in C/C++ and an endless curiosity for all things software, I am always eager to explore new technologies. My goal is to combine technical skills with product knowledge to deliver impactful, user-centric solutions.
+As a product manager turned software engineer, I bring a mix of business and technical skills, allowing me to bridge the gap between user needs and solutions. With a strong foundation in C/C++ and an endless curiosity for all things software, I am always eager to explore new technologies. My goal is to combine my technical skills with product knowledge to deliver impactful, user-centric solutions.
 
 Have a look at my [resume](https://github.com/deniz-oezdemir/resume/raw/main/deniz_oezdemir_resume.pdf) or its [source code](https://github.com/deniz-oezdemir/resume/raw/main/deniz_oezdemir_resume.tex).
 
@@ -12,7 +12,7 @@ Have a look at my [resume](https://github.com/deniz-oezdemir/resume/raw/main/den
 # Projects
 Currently, I am working on:
 - **Full-Stack Pong Game**: Developing a Pong game with a microservices architecture. This project will feature real-time multiplayer functionality, comprehensive game statistics, and an AI opponent. [Follow the progress here](https://github.com/deniz-oezdemir/Transcendence).
-- **Personal Webpage**: Designing a personal webpage to present my thoughts and learnings in a more appealing format. This project is currently in the research phase.
+- **Personal Webpage**: Developing a space to present my thoughts, projects, and learnings in a more appealing format than this README. I have started with [deniz.fyi](https://deniz.fyi) and will continue to build on it.
 
 I've completed below projects as part of my software engineering education:
 - **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Built an HTTP web server from scratch, compliant with HTTP/1.1
