@@ -1,9 +1,9 @@
 👋 Hi there, I'm Deniz!
 
 # About Me
-I am a Product Manager in the consumer brokerage space and a software engineering student at 42 Berlin, currently building a strong foundation in C/C++. I am passionate about all aspects of software development and eager to explore new technologies. My goal is to combine my technical skills with my product experience to create impactful, user-centric solutions.
+As a product manager turned software engineer, I bring a unique blend of business acumen and technical expertise, allowing me to bridge the gap between user needs and technical solutions. With a strong foundation in C/C++ and an endless curiosity for all things software, I am always eager to explore new technologies. My goal is to combine technical skills with product knowledge to deliver impactful, user-centric solutions.
 
-Have a look at my [resume](https://github.com/deniz-oezdemir/resume/blob/main/deniz_oezdemir_resume.pdf) or its [source code](https://github.com/deniz-oezdemir/resume/blob/main/deniz_oezdemir_resume.tex).
+Have a look at my [resume](https://github.com/deniz-oezdemir/resume/raw/main/deniz_oezdemir_resume.pdf) or its [source code](https://github.com/deniz-oezdemir/resume/raw/main/deniz_oezdemir_resume.tex).
 
 # Technical Skills
 - **Languages**: C, C++, Go, Python, JavaScript, HTML, CSS, SQL
@@ -21,7 +21,7 @@ I've completed below projects as part of my software engineering education:
 - **[miniRT](https://github.com/deniz-oezdemir/miniRT)** | Building a basic ray tracer to render 3D scenes from numerical object specifications
 - **[NetPractice](https://github.com/deniz-oezdemir/NetPractice)** | Fixing network configurations with subnetting
 - **[minishell](https://github.com/deniz-oezdemir/Minishell)** | Developing a custom shell by implementing core bash-like features
-- **[Philosophers](https://github.com/deniz-oezdemir/Philosophers)** | Solving the dining philosophers problem using multithreading and concurrency control in C. Also implemented in Go [here](https://github.com/deniz-oezdemir/philo).
+- **[Philosophers](https://github.com/deniz-oezdemir/Philosophers)** | Simulating the dining philosophers problem using multithreading and concurrency control in C. Also implemented in Go [here](https://github.com/deniz-oezdemir/philo).
 - **[FDF](https://github.com/deniz-oezdemir/FDF)** | Visualizing 3D wireframes from 2D height maps using isometric projection
 - **[Pipex](https://github.com/deniz-oezdemir/Pipex)** | Recreating Unix pipe functionality to handle command chaining
 - **[Push_swap](https://github.com/deniz-oezdemir/Push_swap)** | Implementing a sorting algorithm using two stacks with minimal instructions
