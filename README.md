@@ -30,4 +30,4 @@ I've completed below projects as part of my software engineering education:
 - **[libft](https://github.com/deniz-oezdemir/libft)** | Creating a custom library replicating key C functions
 
 # Contact
-Feel free to reach out to me for collaboration or opportunities through [LinkedIn](https://www.linkedin.com/in/denizoezdemir/) or via [email](mailto:oezdemir.de@gmail.com).
+Feel free to reach out to me for collaboration or opportunities through [LinkedIn](https://www.linkedin.com/in/denizoezdemir/) or via [email](mailto:heydeniz@proton.me).
