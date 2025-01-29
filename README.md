@@ -17,7 +17,7 @@ Currently, I am working on:
 I've completed below projects as part of my software engineering education:
 - **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Built an HTTP web server from scratch, compliant with HTTP/1.1
 - **[Inception](https://github.com/deniz-oezdemir/Inception)** | Setting up a small multi-service infrastructure using Docker containers
-- **[CPP-Intro](https://github.com/deniz-oezdemir/CPP-Intro)** | Comprehensive introduction Object-Oriented Programming with C++
+- **[CPP-Intro](https://github.com/deniz-oezdemir/CPP-Intro)** | Comprehensive introduction to Object-Oriented Programming with C++
 - **[miniRT](https://github.com/deniz-oezdemir/miniRT)** | Building a basic ray tracer to render 3D scenes from numerical object specifications
 - **[NetPractice](https://github.com/deniz-oezdemir/NetPractice)** | Fixing network configurations with subnetting
 - **[minishell](https://github.com/deniz-oezdemir/Minishell)** | Developing a custom shell by implementing core bash-like features
