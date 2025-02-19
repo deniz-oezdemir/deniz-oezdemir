@@ -3,8 +3,6 @@
 # About Me
 As a product manager turned software engineer, I bring a mix of business and technical skills, allowing me to bridge the gap between user needs and solutions. With a strong foundation in C/C++ and an endless curiosity for all things software, I am always eager to explore new technologies. My goal is to combine my technical skills with product knowledge to deliver impactful, user-centric solutions.
 
-Have a look at my [resume](https://github.com/deniz-oezdemir/resume/raw/main/deniz_oezdemir_resume.pdf) or its [source code](https://github.com/deniz-oezdemir/resume/raw/main/deniz_oezdemir_resume.tex).
-
 # Technical Skills
 - **Languages**: C, C++, Python, Go, JavaScript/TypeScript, HTML/CSS, SQL (Postgres)
 - **Frameworks / Libraries**: Django, FastAPI, React, Node.js, HuggingFace, Bootstrap, WordPress
