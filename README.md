@@ -6,12 +6,15 @@ As a product manager turned software engineer, I bring a mix of business and tec
 Have a look at my [resume](https://github.com/deniz-oezdemir/resume/raw/main/deniz_oezdemir_resume.pdf) or its [source code](https://github.com/deniz-oezdemir/resume/raw/main/deniz_oezdemir_resume.tex).
 
 # Technical Skills
-- **Languages**: C, C++, Go, Python, JavaScript, HTML, CSS, SQL
-- **Tools**: Git, Docker, Bash, Vim, VS Code, Jira, Confluence, Figma
+- **Languages**: C, C++, Python, Go, JavaScript/TypeScript, HTML/CSS, SQL (Postgres)
+- **Frameworks / Libraries**: Django, FastAPI, React, Node.js, HuggingFace, Bootstrap, WordPress
+- **Tools**: Git, Docker, Bash, Vim, VS Code, Jira, Confluence, Figma, DigitalOcean
 
 # Projects
 Currently, I am working on:
 - **Full-Stack Pong Game**: Developing a Pong game with a microservices architecture. This project will feature real-time multiplayer functionality, comprehensive game statistics, and an AI opponent. [Follow the progress here](https://github.com/deniz-oezdemir/Transcendence).
+- **Stealth Project**: Delving into modern web technologies like React, Next.js, NestJS, LangChain, AWS.
+- **Webcam Pong**: A simple pong game in which you can control the paddle with your index finger. Try out the MVP at [deniz.fyi/pongcam](https://deniz.fyi/pongcam).
 - **Personal Webpage**: Developing a space to present my thoughts, projects, and learnings in a more appealing format than this README. I have started with [deniz.fyi](https://deniz.fyi) and will continue to build on it.
 
 I've completed below projects as part of my software engineering education:
