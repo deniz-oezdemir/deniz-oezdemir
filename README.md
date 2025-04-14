@@ -1,21 +1,21 @@
 👋 Hi there, I'm Deniz!
 
 # About Me
-As a product manager turned software engineer, I bring a mix of business and technical skills, allowing me to bridge the gap between user needs and solutions. With a strong foundation in C/C++ and an endless curiosity for all things software, I am always eager to explore new technologies. My goal is to combine my technical skills with product knowledge to deliver impactful, user-centric solutions.
+I am a software engineering student looking for my first role in the software development industry. I have worked as a product manager in retail banking/investment and hold degrees in economics and finance. View my [resume](https://github.com/deniz-oezdemir/resume/blob/main/deniz_oezdemir_resume.pdf) or its [source code](https://github.com/deniz-oezdemir/resume/blob/main/deniz_oezdemir_resume.tex).
 
 # Technical Skills
-- **Languages**: C, C++, Python, Go, JavaScript/TypeScript, HTML/CSS, SQL (Postgres)
+- **Languages**: C, C++, Go, Python, JavaScript/TypeScript, SQL (Postgres)
 - **Frameworks / Libraries**: Django, FastAPI, React, Node.js, HuggingFace, Bootstrap, WordPress
 - **Tools**: Git, Docker, Bash, Vim, VS Code, Jira, Confluence, Figma, DigitalOcean
 
 # Projects
 Currently, I am working on:
-- **Full-Stack Pong Game**: Developing a Pong game with a microservices architecture. This project will feature real-time multiplayer functionality, comprehensive game statistics, and an AI opponent. [Follow the progress here](https://github.com/deniz-oezdemir/Transcendence).
-- **Stealth Project**: Delving into modern web technologies like React, Next.js, NestJS, LangChain, AWS.
-- **Webcam Pong**: A simple pong game in which you can control the paddle with your index finger. Try out the MVP at [deniz.fyi/pongcam](https://deniz.fyi/pongcam).
-- **Personal Webpage**: Developing a space to present my thoughts, projects, and learnings in a more appealing format than this README. I have started with [deniz.fyi](https://deniz.fyi) and will continue to build on it.
+- **WebDev Exploration**: Exploring modern web technologies such as Go, React, Next.js, NestJS, LangChain, and AWS.
+- **Full-Stack Pong Game**: Building a Pong game using a microservices architecture. The project includes real-time multiplayer, game statistics, and an AI opponent. [Follow the progress here](https://github.com/deniz-oezdemir/Transcendence).
+- **Personal Webpage**: Creating a website to share my thoughts, projects, and learnings. I started with [deniz.fyi](https://deniz.fyi) and plan to expand it further.
+- **Webcam Pong**: A simple Pong game where you control the paddle with your index finger. Try the MVP at [deniz.fyi/pongcam](https://deniz.fyi/pongcam).
 
-I've completed below projects as part of my software engineering education:
+I have completed the following projects as part of my software engineering education:
 - **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Built an HTTP web server from scratch, compliant with HTTP/1.1
 - **[Inception](https://github.com/deniz-oezdemir/Inception)** | Setting up a small multi-service infrastructure using Docker containers
 - **[CPP-Intro](https://github.com/deniz-oezdemir/CPP-Intro)** | Comprehensive introduction to Object-Oriented Programming with C++
@@ -31,4 +31,4 @@ I've completed below projects as part of my software engineering education:
 - **[libft](https://github.com/deniz-oezdemir/libft)** | Creating a custom library replicating key C functions
 
 # Contact
-Feel free to reach out to me for collaboration or opportunities through [LinkedIn](https://www.linkedin.com/in/denizoezdemir/) or via [email](mailto:heydeniz@proton.me).
+Feel free to get in touch for collaboration or opportunities through [LinkedIn](https://www.linkedin.com/in/denizoezdemir/) or by [email](mailto:heydeniz@proton.me).
