@@ -13,18 +13,18 @@ I am a software engineering student looking for my first role in the software de
 <summary>What I am currently working on</summary>
 
 - **Modern WebDev** | Exploring modern web technologies such as Go, React, Next.js, NestJS, LangChain, and AWS.
-- **[Full-Stack Pong Game](https://github.com/deniz-oezdemir/Transcendence)**  | Building a Pong game using a microservices architecture. The project includes real-time multiplayer, game statistics, and an AI opponent.
+- **[Full-Stack Pong Game](https://github.com/deniz-oezdemir/Transcendence)**  | Building a Pong game using a microservices architecture. The project includes real-time multiplayer tournaments, game statistics, and an AI opponent.
 </details>
 
 <details open>
 <summary>Key projects I have completed</summary>
 
-- **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Building an HTTP web server from scratch, compliant with HTTP/1.1
+- **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Building an Nginx-like HTTP web server from scratch, compliant with HTTP/1.1
 - **[Inception](https://github.com/deniz-oezdemir/Inception)** | Setting up a small multi-service infrastructure using Docker containers
-- **[miniRT](https://github.com/deniz-oezdemir/miniRT)** | Building a basic ray tracer to render 3D scenes from numerical object specifications
+- **[miniRT](https://github.com/deniz-oezdemir/miniRT)** | Implementing a basic ray tracer to render 3D scenes from numerical object specifications
 - **[minishell](https://github.com/deniz-oezdemir/Minishell)** | Developing a custom shell by implementing core Bash-like features
 - **[Philosophers](https://github.com/deniz-oezdemir/Philosophers)** | Simulating the dining philosophers problem using multithreading and concurrency control in C. Also implemented in Go [here](https://github.com/deniz-oezdemir/philo).
-- **[Push_swap](https://github.com/deniz-oezdemir/Push_swap)** | Implementing a sorting algorithm using two stacks with minimal instructions
+- **[Push_swap](https://github.com/deniz-oezdemir/Push_swap)** | Creating a sorting algorithm using two stacks with minimal instructions
 </details>
 
 <details>
