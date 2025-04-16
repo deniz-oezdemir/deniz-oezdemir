@@ -45,7 +45,6 @@ I am a software engineering student looking for my first role in the software de
 - **[Personal Webpage](https://github.com/deniz-oezdemir/deniz-oezdemir.github.io)** | Creating a website to share my thoughts, projects, and learnings. I started with [deniz.fyi](https://deniz.fyi) and plan to expand it further.
 - **[Webcam Pong](https://github.com/deniz-oezdemir/pongcam)** | A simple Pong game where you control the paddle with your index finger. Try the MVP at [deniz.fyi/pongcam](https://deniz.fyi/pongcam).
 </details>
-<br>
 
 # Contact
 Feel free to get in touch for collaboration or opportunities through [LinkedIn](https://www.linkedin.com/in/denizoezdemir/) or by [email](mailto:heydeniz@proton.me).
