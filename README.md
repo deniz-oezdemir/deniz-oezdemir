@@ -20,10 +20,10 @@ View the short version of my [resume](https://github.com/deniz-oezdemir/resume/b
 <summary>Key projects I have completed</summary>
 
 - **[Webserv](https://github.com/deniz-oezdemir/Webserv)** | Building an Nginx-like HTTP web server from scratch, compliant with HTTP/1.1
-- **[Full-Stack Pong Game](https://github.com/deniz-oezdemir/Transcendence)**  | Building a multiplayer Pong web app with a microservices architecture.
+- **[Full-Stack Pong Game](https://github.com/deniz-oezdemir/Transcendence)**  | Building a multiplayer Pong web app with a microservices architecture
 - **[miniRT](https://github.com/deniz-oezdemir/miniRT)** | Implementing a basic ray tracer to render 3D scenes from numerical object specifications
 - **[minishell](https://github.com/deniz-oezdemir/Minishell)** | Developing a custom shell by implementing core Bash-like features
-- **[Philosophers](https://github.com/deniz-oezdemir/Philosophers)** | Simulating the dining philosophers problem using multithreading in C and [Go](https://github.com/deniz-oezdemir/philo).
+- **[Philosophers](https://github.com/deniz-oezdemir/Philosophers)** | Simulating the dining philosophers problem using multithreading in C and [Go](https://github.com/deniz-oezdemir/philo)
 - **[Push_swap](https://github.com/deniz-oezdemir/Push_swap)** | Creating a sorting algorithm using two stacks with minimal instructions
 </details>
 
